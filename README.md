@@ -1,4 +1,4 @@
-# CoDExtended — Old Linux & Locked Host Compatibility Build (`iw1x.so`)
+# CoDExtended — Old Linux & Locked Host Compatibility
 
 A custom **compiled & packaged build** of [CoDExtended](https://github.com/xtnded/codextended), built specifically for **older Linux server environments** and to bypass the locked/unchangeable startup commands found on certain free or budget hosting panels (such as **OptikLink**).
 
